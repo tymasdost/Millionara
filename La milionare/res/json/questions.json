@@ -1,0 +1,629 @@
+{
+  "1": [
+    {
+      "Question": "V pohádce Jana Wericha „Tři veteráni“ princezně Bosaně naroste:",
+      "ans": ["sloní kel", "jelení paroh", "kančí tesák", "dlouhý nos"],
+      "correct": 3
+    },
+    {
+      "Question": "Který z následujících plodů není zelenina?",
+      "ans": ["fenykl", "avokádo", "artyčok", "petržel"],
+      "correct": 1
+    },
+    {
+      "Question": "Kde zapadá slunce",
+      "ans": ["na západě", "na jihu", "na severu", "na východě"],
+      "correct": 0
+    },
+    {
+      "Question": "Ve kterém století byla druhá světová válka?",
+      "ans": ["v devatenáctém", "ve dvacátém", "v sedmnáctém", "v osmnáctém"],
+      "correct": 1
+    },
+    {
+      "Question": "Zimní spánek zvířat se jmenuje:",
+      "ans": ["hibernace", "mutace", "migrace", "divergace"],
+      "correct": 0
+    },
+    {
+      "Question": "Kolik je starověkých divů světa?",
+      "ans": ["pět", "tři", "devět", "sedm"],
+      "correct": 3
+    },
+    {
+      "Question": "Kolik stupňů má vnitřní úhel v rovnostranném trojúhelníku?",
+      "ans": ["45", "60", "90", "30"],
+      "correct": 1
+    },
+    {
+      "Question": "Jak se jmenuje oboustranně výhodné soužití dvou organismů?",
+      "ans": ["symbióza", "syntéza", "fotosyntéza", "osmóza"],
+      "correct": 0
+    },
+    {
+      "Question": "Kterému geometrickému útvaru můžeme vypočítat obvod?",
+      "ans": ["kuržnici", "přímce", "polopřímce", "úhlu"],
+      "correct": 0
+    },
+    {
+      "Question": "Jakou přibližnou hodnotu má konstanta pí?",
+      "ans": ["2.8", "1.33", "3.14", "3.65"],
+      "correct": 2
+    },
+    {
+      "Question": "Karel Čapek vytvořil novinový útvar, který dodnes známe jako:",
+      "ans": ["sloupek", "odstavec", "refrén", "skica"],
+      "correct": 0
+    }
+  ],
+  "2": [
+    {
+        "Question": "Ploché tašky z pálené hlíny, ukončené ve tvaru připomínajícím ocas jednoho hlodavce, se nazývají:",
+        "ans": ["potkanky", "krysovky", "bobrovky", "hrabošky"],
+        "correct": 3
+      },
+      {
+        "Question": "Které z těchto rychlých občerstvení neexistuje?",
+        "ans": ["McDonald's", "Pizza Fut", "Burger King", "Subway"],
+        "correct": 1
+      },
+      {
+        "Question": "Co je win-win situace?",
+        "ans": ["situace, která vede k dominantní výhře", "situace, ze které všichni odejdou poražení", "situace, kdz dochází k serii výher", "situace, ze které všichni profitují"],
+        "correct": 3
+      },
+      {
+        "Question": "Když závodník Dalibor předběhne závodníka Michala na druhém místě, kolikátý bude Dalibor?",
+        "ans": ["1.", "3.", "2.", "4."],
+        "correct": 2
+      },
+      {
+        "Question": "Na výrobu čeho se specializuje značka Hugo Boss?",
+        "ans": ["móda a parfémy", "mince a medaile", "klobouky a čepice", "boty a ponožky"],
+        "correct": 0
+      },
+      {
+        "Question": "Kde se nachází město Marseille?",
+        "ans": ["Francie", "Dánsko", "Švýcarsko", "Belgie"],
+        "correct": 0
+      },
+      {
+        "Question": "Která firma z nabízených možností nevyrábí čokoládu? ",
+        "ans": ["Lindt & Sprüngli", "Hamé", "Orion", "Ritter Sport"],
+        "correct": 1
+      },
+      {
+        "Question": "Jak zní synonymum od slova ,,laškovat\"?",
+        "ans": ["pohrávat si", "obcházet", "hádat se", "uklidňovat"],
+        "correct": 0
+      },
+      {
+        "Question": "Kdo je v čele Vlády České republiky? ",
+        "ans": ["premiér", "prezident", "komisař", "kancléř"],
+        "correct": 0
+      },
+      {
+        "Question": "K čemu slouží antiperspirant? ",
+        "ans": ["zamezuje krkání", "eliminuje pocení", "zlepšuje zrak", "odstraňuje zubní kazy"],
+        "correct": 1
+      },
+      {
+        "Question": "Ve kterém městě se můžeme nejčastěji setkat s gondolou?",
+        "ans": ["Benátky", "Madrid", "Omsk", "Paříž"],
+        "correct": 0
+      }
+  ],
+  "3": [
+    {
+        "Question": "Kolik má celkem vlasů Rákosníček z televizních Večerníčků?",
+        "ans": ["tři", "šest", "pět", "sedm"],
+        "correct": 3
+      },
+      {
+        "Question": "Člověku s nedostatkem kožního pigmentu se říká:",
+        "ans": ["albín", "albert", "bělouš", "běloch"],
+        "correct": 0
+      },
+      {
+        "Question": "Lékař s titulem MVDr. je doktorem lékařství:",
+        "ans": ["vojenského", "veterinárního", "válečného", "očního"],
+        "correct": 1
+      },
+      {
+        "Question": "Do repertoáru Divadla Járy Cimrmana patři hra Ladislava Smolajka a Zdenka Svěráka s názvem \"Vyšetřování ztráty...\":",
+        "ans": ["třídní učitelky", "třídní nástěnky", "třídní knihy", "třídní pokladny"],
+        "correct": 2
+      },
+      {
+        "Question": "Zpěvák Janek Ledecký dlohou dobu vystupoval se skupinou:",
+        "ans": ["Ruchadlo", "Vozembouch", "Mlátička", "Žentour"],
+        "correct": 3
+      },
+      {
+        "Question": "Ve kterém světadíle můžeme vystoupit na horu Kilimandžáro?",
+        "ans": ["v Antarktidě", "v Austrálii", "v Evropě", "v Africe"],
+        "correct": 3
+      },
+      {
+        "Question": "Jan Lucemburský bojoval v bitvě u Kresčaku:",
+        "ans": ["beznohý", "nahý", "slepý", "bezruký"],
+        "correct": 2
+      },
+      {
+        "Question": "Jak se nazývá klešťovitý klíč k utahování trubek, zpravidla seřiditelný pro různé průměry?",
+        "ans": ["hasák", "momentový klíč", "sklíčidlo", "klíčenka"],
+        "correct": 0
+      },
+      {
+        "Question": "Chantal Poullain je známá:",
+        "ans": ["sochařka", "lékařka", "sportovkyně", "herečka"],
+        "correct": 3
+      },
+      {
+        "Question": "Kdy zavolali mravenci doktora pro svého nemocného kamaráda v klasické říkance \"Polámal se mraveneček\"?",
+        "ans": ["v poledne", "o půlnoci", "ráno", "večer"],
+        "correct": 1
+      },
+      {
+        "Question": "Jak se jmenuje umělé jezero u České Skalice ve východních Čechách?",
+        "ans": ["Pohoda", "Rozkoš", "Slast", "Radost"],
+        "correct": 1
+      }
+  ],
+  "4": [
+    {
+        "Question": "Kdo režíroval film s dvojrolí Jana Wericha Císařův pekař a Pekařův císař?",
+        "ans": ["Karel Lamač", "Karel Zeman", "Martin Frič", "Karel Stesklý"],
+        "correct": 2
+      },
+      {
+        "Question": "Jak se jmenoval koktejl který si objednávali hrdinové filmu Čtyři vraždy stačí, drahoušku?",
+        "ans": ["go-go", "da-da", "hu-hu", "ko-ko"],
+        "correct": 2
+      },
+      {
+        "Question": "Zastupování herců, hrajících stejnou roli v divadelní inseraci, se nazývá:",
+        "ans": ["abdikace", "aprobace", "alternace", "aberace"],
+        "correct": 2
+      },
+      {
+        "Question": "Jak se jmenuje bojová hra v terénu, v níž po sobě hráči střílejí barvícími kuličkami?",
+        "ans": ["paintball", "howling", "biliár", "squash"],
+        "correct": 0
+      },
+      {
+        "Question": "Která jihomoravská řeka tvoří část hranice naší republiky s Rakouskem?",
+        "ans": ["Jihlava", "Dyje", "Svratka", "Morava"],
+        "correct": 1
+      },
+      {
+        "Question": "Veslonos je:",
+        "ans": ["nosič vesel", "vodní brouk", "ryba", "slovanský bůh"],
+        "correct": 2
+      },
+      {
+        "Question": "Které české město je proslulé krajkařstvím?",
+        "ans": ["Štamberk", "Vamberk", "Štemberk", "Žamberk"],
+        "correct": 1
+      },
+      {
+        "Question": "Ve kterém městě se nachází známá Valdická brána?",
+        "ans": ["v Kadani", "ve Šternberku", "v Poděbradech", "v Jičíně"],
+        "correct": 3
+      },
+      {
+        "Question": "Álef je první písmeno:",
+        "ans": ["finské abecedy", "hebrejské abecedy", "ruské azbuky", "řecké abecedy"],
+        "correct": 1
+      },
+      {
+        "Question": "Symbol životní síly a zdraví, hůl obtočená hadem, se správně nazývá:",
+        "ans": ["Galenova hůl", "Rathova hůl", "Aeskulapova hůl", "Fischerova hůl"],
+        "correct": 2
+      },
+      {
+        "Question": "Jedna pražská městská část se nazývá:",
+        "ans": ["Činely", "Trumpety", "Bubny", "Kytary"],
+        "correct": 2
+      }
+  ],
+  "5": [
+    {
+        "Question": "Ze kterého státu jsou růže v písni, jejíž refrén začíná slovy \"Kdo si kazí smysl pro krásu...\"?",
+        "ans": ["z Alabamy", "z Floridy", "z Arisony", "z Texasu"],
+        "correct": 3
+      },
+      {
+        "Question": "Kdo dal podle Bible všem zvířatům jejich jména?",
+        "ans": ["Bůh", "Eva", "Adam", "Ježíš"],
+        "correct": 2
+      },
+      {
+        "Question": "U kterého z uvedených čísel potřebujeme nejméně znaků, máme-li je zapsat pomocí římských číslic?",
+        "ans": ["540", "560", "550", "570"],
+        "correct": 2
+      },
+      {
+        "Question": "Co není puk?",
+        "ans": ["šelmovský skřítek", "vyfouknuté vejce", "hokejový kotouč", "sažehlený záhyb"],
+        "correct": 1
+      },
+      {
+        "Question": "Kterou píseň nenazpíval Karel Gott",
+        "ans": ["Kávu si osladím", "Být stále mlád", "Bloudím pasaží", "Zůstanu tvůj"],
+        "correct": 3
+      },
+      {
+        "Question": "Co to je obezlička?",
+        "ans": ["malá berlička", "osoba bez líčka", "druh šeříku", "nezodpovědnost"],
+        "correct": 3
+      },
+      {
+        "Question": "Kdo je adjutant",
+        "ans": ["správce statku", "rekordman", "pobočník", "absolvent"],
+        "correct": 2
+      },
+      {
+        "Question": "Z čeho se vyráběl pergamen?",
+        "ans": ["ze stonků", "z hlíny", "z kůry", "z kůže zvířat"],
+        "correct": 3
+      },
+      {
+        "Question": "Libušina sestra Kazi si podle pověsti vzala za manžela:",
+        "ans": ["Přemysla", "Kroka", "Bivoje", "Vojena"],
+        "correct": 2
+      },
+      {
+        "Question": "Jaká zelenina je hojně využívána v anglosaských zemích k výrobě symbolů při oslavě svátku Halloween?",
+        "ans": ["mrkev", "okurka", "dýně", "celer"],
+        "correct": 2
+      },
+      {
+        "Question": "Součástí kterého státu je největší světový ostrov Grónsko",
+        "ans": ["Dánska", "Norska", "Švédska", "Finska"],
+        "correct": 0
+      }
+  ],
+  "6": [
+    {
+        "Question": "Jaký rok se Titanic ponořil v Atlantském oceánu dne 15. dubna při své první plavbě z Southamptonu?",
+        "ans": ["1923", "1912", "1932", "1896"],
+        "correct": 1
+      },
+      {
+        "Question": "Jak se jmenuje největší technologická společnost v Jižní Koreji?",
+        "ans": ["Panasonic", "Samsung", "Huawei", "ZhongAn"],
+        "correct": 1
+      },
+      {
+        "Question": "Jaký je chemický symbol pro stříbro?",
+        "ans": ["Ti", "Co", "Ag", "Bi"],
+        "correct": 2
+      },
+      {
+        "Question": "Která americká popová hvězda měla úspěch v hitparádách roku 2015 se singly „Sorry“ a „Love Yourself“?",
+        "ans": ["Justin Bieber", "Eminem", "Drake", "Snoop Dogg"],
+        "correct": 0
+      },
+      {
+        "Question": "Který zpěvák byl známý mimo jiné jako „The King of Pop“ a „The Gloved One“?",
+        "ans": ["Rihanna", "Ed Sheeran", "Lady Gaga", "Michael Jackson"],
+        "correct": 3
+      },
+      {
+        "Question": "Uveďte zemi, ve které lze najít Velkou sfingu ",
+        "ans": ["Egypt", "Kongo", "Burkina", "Nigeria"],
+        "correct": 0
+      },
+      {
+        "Question": "Jaký je člověk, když se o něm řekne, že je paranoidní?",
+        "ans": ["zajímá se o paranormální jevy", "je chorobně podezíravý", "je moc milý a naivní", "má panoramatický pohled"],
+        "correct": 1
+      },
+      {
+        "Question": "Co to je Majáles?",
+        "ans": ["rozsáhlá epická báseň", "les v Máji", "tradiční jarní studentská slavnost", "včelka Mája"],
+        "correct": 2
+      },
+      {
+        "Question": "Jak se říkalo Vikingským lodím?",
+        "ans": ["Trakary", "Drakary", "Vekary", "Varhany"],
+        "correct": 1
+      },
+      {
+        "Question": "Kde se narodil Albert Einstein?",
+        "ans": ["v Americe", "v Německu", "ve Švýcarsku", "v Rakousku"],
+        "correct": 1
+      },
+      {
+        "Question": "Kdo vynalezl žárovku?",
+        "ans": ["T. A. Edison ", "J. Maier", "A. Einstein", "N. Tesla"],
+        "correct": 0
+      }
+  ],
+  "7": [
+    {
+        "Question": "Jaká je měna Dánska?",
+        "ans": ["Euro", "Koruna", "Kuna", "peso"],
+        "correct": 1
+      },
+      {
+        "Question": "Kolik stálých zubů má pes?",
+        "ans": ["28", "34", "42", "37"],
+        "correct": 2
+      },
+      {
+        "Question": "Jak daleko je v průměru měsíc od Země v mílích?",
+        "ans": ["238 000", "142 000", "450 000", "272 000"],
+        "correct": 0
+      },
+      {
+        "Question": "Ve které zemi na světě je podle všeho nejvíce kilometrů dálnice?",
+        "ans": ["USA", "Rusko", "Čína", "Německo"],
+        "correct": 2
+      },
+      {
+        "Question": "Který nealkoholický nápoj je běžně spojován se Skotskem?",
+        "ans": ["swet-let", "sowa", "ham-nam", "irn-bru"],
+        "correct": 3
+      },
+      {
+        "Question": "Kolik stálých členů je v Radě bezpečnosti OSN?",
+        "ans": ["5", "7", "9", "4"],
+        "correct": 0
+      },
+      {
+        "Question": "Jakým jazykem se mluví v Brazílii?",
+        "ans": ["portugalština", "španělština", "angličtina", "brazilština"],
+        "correct": 0
+      },
+      {
+        "Question": "Kolik not je v hudebním měřítku?",
+        "ans": ["10", "7", "6", "8"],
+        "correct": 1
+      },
+      {
+        "Question": "Jaká společnost se také jmenuje jako jedna z nejdelších řek na světě?",
+        "ans": ["Dunaj", "Amazon", "Labe", "Orlík"],
+        "correct": 1
+      },
+      {
+        "Question": "Co je jednoslovná fráza Sheldona Coopera v Teorie velkého třesku?",
+        "ans": ["Boomer", "Bazinga", "Bang!", "Clueless"],
+        "correct": 1
+      },
+      {
+        "Question": "Jak se jmenuje kovboj v Toy Story?",
+        "ans": ["Jhon", "Rakeťák", "Dřevnatý", "McQueen"],
+        "correct": 2
+      }
+  ],
+  "8": [
+    {
+        "Question": "Kolik kláves je na klavíru?",
+        "ans": ["100", "88", "90", "94"],
+        "correct": 1
+      },
+      {
+        "Question": "Která planeta má nejvíce měsíců?",
+        "ans": ["Saturn", "Uran", "Venuše", "Mars"],
+        "correct": 0
+      },
+      {
+        "Question": "Kolik prvků je v periodické tabulce?",
+        "ans": ["232", "154", "118", "183"],
+        "correct": 2
+      },
+      {
+        "Question": "Kde se nachází nejmenší kost v lidském těle?",
+        "ans": ["dlaň", "ucho", "koleno", "chodidlo"],
+        "correct": 1
+      },
+      {
+        "Question": "Kolik srdcí má chobotnice?",
+        "ans": ["8", "1", "3", "5"],
+        "correct": 2
+      },
+      {
+        "Question": "Ve kterém roce byl vydán operační systém Microsoft XP?",
+        "ans": ["2004", "2001", "2006", "2003"],
+        "correct": 1
+      },
+      {
+        "Question": "Jaký operační systém používá telefon Google Pixel?",
+        "ans": ["Chromium OS", "iOS", "Android", "Pixel OS"],
+        "correct": 2
+      },
+      {
+        "Question": "Kdo zabil rodiče Tonyho Starka?",
+        "ans": ["nikdo", "zimní voják", "Hulk", "exploze"],
+        "correct": 1
+      },
+      {
+        "Question": "Natasha Romanova je skutečné jméno kterého superhrdiny?",
+        "ans": ["Nathalia", "Captain Marvel", "Pepper Potts", "Black Widow"],
+        "correct": 3
+      },
+      {
+        "Question": "Co říká poznávací značka na DeLorean v Back To The Future?",
+        "ans": ["OUTATIME", "FUTUREISOURS", "BACKTOBACK", "WELCOME"],
+        "correct": 0
+      },
+      {
+        "Question": "Kdo je Fluffy z Harryho Pottera?",
+        "ans": ["tříhlavý pes", "kočka", "velký pavouk", "domácí skřítek"],
+        "correct": 0
+      }
+  ],
+  "9": [
+    {
+        "Question": "Kolik filmů Piráti z Karibiku bylo vydáno?",
+        "ans": ["5", "4", "6", "8"],
+        "correct": 0
+      },
+      {
+        "Question": "Která planeta má nejvíce měsíců?",
+        "ans": ["Saturn", "Uran", "Venuše", "Mars"],
+        "correct": 0
+      },
+      {
+        "Question": "Kolik prvků je v periodické tabulce?",
+        "ans": ["232", "154", "118", "183"],
+        "correct": 2
+      },
+      {
+        "Question": "Kde se nachází nejmenší kost v lidském těle?",
+        "ans": ["dlaň", "ucho", "koleno", "chodidlo"],
+        "correct": 2
+      },
+      {
+        "Question": "Kolik srdcí má chobotnice?",
+        "ans": ["8", "1", "3", "5"],
+        "correct": 2
+      },
+      {
+        "Question": "Ve kterém roce byl vydán operační systém Microsoft XP?",
+        "ans": ["2004", "2001", "2006", "2003"],
+        "correct": 1
+      },
+      {
+        "Question": "Jaký operační systém používá telefon Google Pixel?",
+        "ans": ["Chromium OS", "iOS", "Android", "Pixel OS"],
+        "correct": 2
+      },
+      {
+        "Question": "Kdo zabil rodiče Tonyho Starka?",
+        "ans": ["nikdo", "zimní voják", "Hulk", "exploze"],
+        "correct": 1
+      },
+      {
+        "Question": "Natasha Romanova je skutečné jméno kterého superhrdiny?",
+        "ans": ["Nathalia", "Captain Marvel", "Pepper Potts", "Black Widow"],
+        "correct": 3
+      },
+      {
+        "Question": "Co říká poznávací značka na DeLorean v Back To The Future?",
+        "ans": ["OUTATIME", "FUTUREISOURS", "BACKTOBACK", "WELCOME"],
+        "correct": 0
+      },
+      {
+        "Question": "Kdo je Fluffy z Harryho Pottera?",
+        "ans": ["tříhlavý pes", "kočka", "velký pavouk", "domácí skřítek"],
+        "correct": 0
+      }
+  ],
+  "10": [
+    {
+        "Question": "Která z těchto žen nemohla za svého života spatřit na obloze Halleyovu kometu?",
+        "ans": ["Eva Perónová", "Agatha Christie", "Marie Curie", "Greta Garbo"],
+        "correct": 0
+      },
+      {
+        "Question": "Která hudební skupina vydala v roce 1997 album s podivným názvem Rastakayakwanna?",
+        "ans": ["Lucie", "Buty", "Laura a její tygři", "Wanastovy wjeci"],
+        "correct": 1
+      },
+      {
+        "Question": "Který z uvedených stromů nebo keřů není listantý?",
+        "ans": ["habr", "javor", "olše", "jalovec"],
+        "correct": 3
+      },
+      {
+        "Question": "Chce-li kočí, aby kůň odbočil vlevo, dá mu příkaz:",
+        "ans": ["čehý", "hyje", "hot", "prr"],
+        "correct": 0
+      },
+      {
+        "Question": "Mezi romány Honoré de Balzaca nepatří:",
+        "ans": ["Dcera Adamova", "Otec Goriot", "Sestřenice Běta", "Bratranec Pons"],
+        "correct": 0
+      },
+      {
+        "Question": "Které další jméno patří zpěvákovi, kytaristovi a skladateli skupiny Beatles Johnu Lennonovi?",
+        "ans": ["Russel", "Charles", "Winston", "Robert"],
+        "correct": 2
+      },
+      {
+        "Question": "Která léta se váží k oficiálnímu názvu naší země - Československá socialistická republika?",
+        "ans": ["1991 - 1992", "1918 - 1989", "1969 - 1990", "1960 - 1990"],
+        "correct": 3
+      },
+      {
+        "Question": "Kolika nejvíce let se podle Genesis dožil Metuzalém?",
+        "ans": ["asi 150 let", "asi 600 let", "asi 300 let", "asi 950 let"],
+        "correct": 3
+      },
+      {
+        "Question": "Kolik malých černoušků patří do titulu detektivky od Agathy Christie?",
+        "ans": ["pět", "deset", "sedm", "třináct"],
+        "correct": 1
+      },
+      {
+        "Question": "Kterou sepcializaci měl Zdeněk Svěrák alias Bohouš Burda ve filmu \"Co je vám, doktore\"?",
+        "ans": ["ortoped", "veterinář", "zubař", "právník"],
+        "correct": 2
+      },
+      {
+        "Question": "Co mají společného brambor a baklažán?",
+        "ans": ["zemi původu", "množství škrobu", "způsob sklizně", "označení lilek"],
+        "correct": 3
+      }
+  ],
+  "11": [
+    {
+        "Question": "V kterém roce bylo u nás zrušeno cizoložství jako soudně trestný přestupek?",
+        "ans": ["1935", "1950", "1945", "1955"],
+        "correct": 1
+      },
+      {
+        "Question": "Která odrůda vinné révy se používá pro výrobu odrůdového bílého vína?",
+        "ans": ["Portugalské modré", "Rulandské modré", "Tramín červený", "Svatovavřinecké"],
+        "correct": 2
+      },
+      {
+        "Question": "Které jméno znamená \"narozená v den Kristových narozenin\" nebo také \"dítě vánoc\"?",
+        "ans": ["Simona", "Eliška", "Natálie", "Klára"],
+        "correct": 2
+      },
+      {
+        "Question": "Který rod měl na svém erbu vyobrazenou opeřenou střelu?",
+        "ans": ["Berkové z Dubé", "Bítovští z Bítova", "Bavorové ze Strakonic", "Bechyňové z Lažan"],
+        "correct": 2
+      },
+      {
+        "Question": "Mezi světově rozšířené druhy octa používaného při přípravě pokrmů nepatří:",
+        "ans": ["rýžový", "vinný", "jablečný", "olivový"],
+        "correct": 3
+      },
+      {
+        "Question": "Který stát nemá horu vyšší než je naše Sněžka?",
+        "ans": ["Norsko", "Rumunsko", "Portugalsko", "Belgie"],
+        "correct": 3
+      },
+      {
+        "Question": "Titán Kronos podle mýtů své děti z obavy před vzpourou:",
+        "ans": ["vydědil", "rozšlápnul", "spolykal", "proměnil"],
+        "correct": 2
+      },
+      {
+        "Question": "Kolika nejvíce let se podle Genesis dožil Metuzalém?",
+        "ans": ["asi 150 let", "asi 600 let", "asi 300 let", "asi 950 let"],
+        "correct": 3
+      },
+      {
+        "Question": "Kolik malých černoušků patří do titulu detektivky od Agathy Christie?",
+        "ans": ["pět", "deset", "sedm", "třináct"],
+        "correct": 1
+      },
+      {
+        "Question": "Kterou sepcializaci měl Zdeněk Svěrák alias Bohouš Burda ve filmu \"Co je vám, doktore\"?",
+        "ans": ["ortoped", "veterinář", "zubař", "právník"],
+        "correct": 2
+      },
+      {
+        "Question": "Co mají společného brambor a baklažán?",
+        "ans": ["zemi původu", "množství škrobu", "způsob sklizně", "označení lilek"],
+        "correct": 3
+      }
+  ]
+}
